@@ -1,0 +1,4 @@
+
+-Elektrik=2951
+-Su=415
+-dogal gaz=1023

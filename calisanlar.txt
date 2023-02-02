@@ -1,0 +1,6 @@
+1)Mustafa-Toprak-20-8500-Erkek
+2)Ali-Nizamdere-20-7500-Erkek
+3)Mehmet ALi-Toprak-46-15000-Erkek
+4)Mehmet Akif-Toprak-18-6500-Erkek
+5)Hamza-Toprak-40-12000-Erkek
+6)Harun -Toprak-43-13000-Erkek
